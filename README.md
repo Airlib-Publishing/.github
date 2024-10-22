@@ -5,4 +5,4 @@ We make games and engines.
 
 ## Projects
 
-Currently, we are working on the Stellar Engine, and we will soon start a Game.
+Currently, we are working on Airlib, and we will soon start a Game.
