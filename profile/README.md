@@ -5,4 +5,4 @@ We're a team of passionate game developers.
 ## Projects
 
 We're busy finishing :
-- The [Airlib](https://github.com/AdamOnAir/Airlib).
+- [Airlib](https://github.com/AdamOnAir/Airlib).
